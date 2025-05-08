@@ -15,7 +15,7 @@ Includes support for pagination and filtering by title and completion status.
 
 1. Clone the repository:
 ```bash
-git clone [<your-repo-url>](https://github.com/RohanWagh-12053/backendAssignmentApi)
+git clone https://github.com/RohanWagh-12053/backendAssignmentApi
 cd backend-api
 ```
 
