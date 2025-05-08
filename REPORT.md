@@ -13,7 +13,7 @@ The project consists of the following components:
 backend-api/
 │
 ├── index.js        # Main server file containing the API routes.
-├── README.md       # Documentation file explaining the API (already created).
+├── README.md       # Documentation file explaining the API .
 ├── REPORT.md       # This file, explaining the approach and algorithm choices.
 └── package.json    # Dependencies and project metadata.
 
